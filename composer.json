@@ -1,0 +1,14 @@
+{
+    "name": "root/php-oop",
+    "description": "membuat aplikasi php dengan paradigma oop",
+    "type": "php-oop",
+    "require": {
+        "php": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "zulfikra96",
+            "email": "zulfikralahmudin@gmail.com"
+        }
+    ]
+}
